@@ -1,28 +1,17 @@
-			
-
-
-
-
-
-
-
-
-
-
 <table>
       <body>
         <tr>
-          <td>전성현</td>
-          <td>전성현</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
 
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
+          <td>박동경</td>
         </tr>
        </body>
 </table>

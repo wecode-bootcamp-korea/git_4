@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈/td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
         </tr>
         <tr>
-          <td>고혁훈/td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
-          <td>고혁훈</td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
+          <td>동경</td>
         </tr>
       </tbody>
 </table>

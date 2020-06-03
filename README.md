@@ -10,7 +10,7 @@
 
 
 <table>
-      <tbody>
+      <body>
         <tr>
           <td>전성현</td>
           <td>전성현</td>
@@ -24,6 +24,7 @@
           <td>고혁훈</td>
           <td>고혁훈</td>
         </tr>
+       </body>
 </table>
 
 ## 땅따먹기 게임

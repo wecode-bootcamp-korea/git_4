@@ -1,9 +1,9 @@
 <table>
       <tbody>
         <tr>
-          <td>이소헌2</td>
-          <td>이소헌2</td>
-          <td>이소헌</td>
+          <td>yyyyyy</td>
+          <td>yyyyyy</td>
+          <td>yyyyy</td>
           <td>강솔미2</td>
           <td>강솔미</td>
         </tr>

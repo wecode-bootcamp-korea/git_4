@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>강솔미2</td>
-          <td>강솔미2</td>
-          <td>강솔미</td>
-          <td>강솔미2</td>
-          <td>강솔미</td>
+          <td>김지인</td>
+          <td>김지인</td>
+          <td>김지인</td>
+          <td>김지인</td>
+          <td>김지인</td>
         </tr>
         <tr>
-          <td>강솔미</td>
-          <td>강솔미</td>
-          <td>강솔미</td>
-          <td>강솔미</td>
-          <td>강솔미</td>
+          <td>김지인</td>
+          <td>김지인<</td>
+          <td>김지인</td>
+          <td>김지인</td>
+          <td>김지인</td>
         </tr>
       </tbody>
 </table>

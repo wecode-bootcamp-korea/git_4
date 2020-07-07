@@ -1,14 +1,12 @@
 <table>
       <tbody>
         <tr>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
+          <td>강솔미2</td>
+          <td>강솔미2</td>
+          <td>강솔미</td>
+          <td>강솔미2</td>
+          <td>강솔미</td>
         </tr>
-<<<<<<< HEAD
-=======
         <tr>
           <td>김대휘</td>
           <td>김대휘</td>
@@ -17,7 +15,6 @@
           <td>ADAM</td>
           <td>ADAM</td>
         </tr>
->>>>>>> 1cc1288... 2차 수정
       </tbody>
 </table>
 

@@ -1,19 +1,23 @@
 <table>
       <tbody>
         <tr>
-          <td>김지인</td>
-          <td>김지인</td>
-          <td>김지인</td>
-          <td>김지인</td>
-          <td>김지인</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
         </tr>
+<<<<<<< HEAD
+=======
         <tr>
-          <td>김지인</td>
-          <td>김지인<</td>
-          <td>김지인</td>
-          <td>김지인</td>
-          <td>김지인</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>김대휘</td>
+          <td>ADAM</td>
+          <td>ADAM</td>
         </tr>
+>>>>>>> 1cc1288... 2차 수정
       </tbody>
 </table>
 

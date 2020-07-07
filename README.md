@@ -1,15 +1,15 @@
 <table>
       <tbody>
         <tr>
-          <td>강솔미2</td>
-          <td>강솔미2</td>
-          <td>강솔미</td>
+          <td>이소헌2</td>
+          <td>이소헌2</td>
+          <td>이소헌</td>
           <td>강솔미2</td>
           <td>강솔미</td>
         </tr>
         <tr>
-          <td>김대휘</td>
-          <td>김대휘</td>
+          <td>이소헌</td>
+          <td>이소헌</td>
           <td>김대휘</td>
           <td>김대휘</td>
           <td>ADAM</td>

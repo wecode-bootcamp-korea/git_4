@@ -1,18 +1,18 @@
 <table>
       <tbody>
         <tr>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
+          <td>강솔미2</td>
+          <td>강솔미2</td>
+          <td>강솔미</td>
+          <td>강솔미2</td>
+          <td>강솔미</td>
         </tr>
         <tr>
-          <td>김대휘</td>
-          <td>김대휘<</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
-          <td>김대휘</td>
+          <td>강솔미</td>
+          <td>강솔미</td>
+          <td>강솔미</td>
+          <td>강솔미</td>
+          <td>강솔미</td>
         </tr>
       </tbody>
 </table>
